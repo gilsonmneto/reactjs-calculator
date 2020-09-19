@@ -12,4 +12,4 @@ Second:
 
 Third:
 
-### `yarn start`
+### `npm start`
